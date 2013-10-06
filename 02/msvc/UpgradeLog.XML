@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="geometry">
+</Property><Property Name="Solution File" Value="E:\PHD_APPLICATION\Courses\CMU_Graphics_2012\Projects\02\msvc\geometry.sln">
+</Property><Property Name="Date" Value="2013年9月27日">
+</Property><Property Name="Time" Value="14:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="geometry.sln" Description="File successfully backed up as E:\PHD_APPLICATION\Courses\CMU_Graphics_2012\Projects\02\msvc\geometry.sln.old">
+</Event><Event ErrorLevel="0" Project="geometry" Source="geometry.vcproj" Description="Converting project file 'E:\PHD_APPLICATION\Courses\CMU_Graphics_2012\Projects\02\msvc\geometry.vcproj'.">
+</Event><Event ErrorLevel="1" Project="geometry" Source="geometry.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="geometry" Source="geometry.vcproj" Description="Done converting to new project file 'E:\PHD_APPLICATION\Courses\CMU_Graphics_2012\Projects\02\msvc\geometry.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="geometry" Source="geometry.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="geometry.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="geometry.sln" Description="Converted">
+</Event></UpgradeLog>
